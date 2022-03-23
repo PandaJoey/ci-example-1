@@ -10,7 +10,6 @@ pipeline {
             steps {
                 echo 'Step 2. Second time Hello'
                 echo 'Step 3. Third time Hello'
-                echo 'trying to get it to see jenkinsfile'
             }
         }
     }
